@@ -1,2 +1,2 @@
 # latex-portfolio
-A collection of LaTeX documents for academic, technical, formatting
+A collection of LaTeX documents for academic, technical formatting
